@@ -143,13 +143,13 @@
 
 被動語態的核心結構不變，但 `be` 動詞會根據**時態**和**主詞人稱/單複數**做變化：
 
-| 時態       | 被動結構          | 範例 (The book is written by her.)                |
+| 時態        | 被動結構             | 範例 (The book is written by her.)              |
 | :--------- | :---------------- | :------------------------------------------------ |
-| 現在簡單   | `am/is/are + p.p.`  | The book **`is written`** by her.                   |
-| 過去簡單   | `was/were + p.p.`   | The book **`was written`** by her.                  |
-| 現在完成   | `has/have been + p.p.` | The book **`has been written`** by her.             |
-| 未來簡單   | `will be + p.p.`    | The book **`will be written`** by her.              |
-| 其他時態   | (依此類推，改變be動詞) | E.g., The book **`was being written`** (過去進行) |
+| 現在簡單    | `am/is/are + p.p.`   | The book **`is written`** by her.                 |
+| 過去簡單    | `was/were + p.p.`    | The book **`was written`** by her.                |
+| 現在完成    | `has/have been + p.p.` | The book **`has been written`** by her.           |
+| 未來簡單    | `will be + p.p.`     | The book **`will be written`** by her.            |
+| 其他時態    | (依此類推，改變be動詞) | E.g., The book **`was being written`** (過去進行) |
 
 ### 4.3 使用時機
 
@@ -181,11 +181,11 @@
 
 ### 5.2 三種主要假設語氣
 
-| 類型         | 描述                 | If 子句結構         | 主要子句結構       | 核心範例                               | 補充範例                                 |
-| :----------- | :------------------- | :------------------ | :----------------- | :------------------------------------- | :--------------------------------------- |
-| **Type 1: 未來可能** | 對未來可能發生的事做假設 | `If + S + 現在簡單式 V` | `S + will/can/may + V` | `If it **rains** tomorrow, I **will stay** home.` | `If I **study**, I **will pass** the exam.` |
-| **Type 2: 現在/未來不太可能或與事實相反** | 對現在或未來不太可能實現的事做假設 | `If + S + 過去簡單式 V` (be動詞用 `were`) | `S + would/could/might + V` | `If I **had** money now, I **would travel**.` | `If I **were** rich, I **would buy** a car.` |
-| **Type 3: 過去不可能/與過去事實相反** | 對過去已發生且無法改變的事做假設 | `If + S + had + p.p.` | `S + would/could/might + have + p.p.` | `If I **had studied** harder, I **would have passed**.` | `If I **had worked** then, I **would have succeeded**.` |
+| 類型                               | 描述                                 | If 子句結構                        | 主要子句結構                       | 核心範例                                               | 補充範例                                        |
+| :----------- | :----------------------------------- | :---------------------------------- | :--------------------------------- | :----------------------------------------------------- | :--------------------------------------------- |
+| **Type 1: 未來可能** | 對未來可能發生的事做假設             | `If + S + 現在簡單式 V`             | `S + will/can/may + V`             | `If it **rains** tomorrow, I **will stay** home.`     | `If I **study**, I **will pass** the exam.`     |
+| **Type 2: 現在/未來不太可能或與事實相反** | 對現在或未來不太可能實現的事做假設 | `If + S + 過去簡單式 V` (be動詞用 `were`) | `S + would/could/might + V`        | `If I **had** money now, I **would travel**.`        | `If I **were** rich, I **would buy** a car.` |
+| **Type 3: 過去不可能/與過去事實相反** | 對過去已發生且無法改變的事做假設     | `If + S + had + p.p.`             | `S + would/could/might + have + p.p.` | `If I **had studied** harder, I **would have passed**.` | `If I **had worked** then, I **would have succeeded**.` |
 
 ### 5.3 關鍵：時態的「退一步」
 
